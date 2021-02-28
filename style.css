@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+#intro {
+    text-align: center
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+}
+
+.center {
+    position: absolute;
+    margin: auto;
+    top: 70px;
+    left: 0;
+    max-width: 600px;
+    border-radius: 20px;
+    padding: 20px;
+
+    animation: fadInAnimation ease 0.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
