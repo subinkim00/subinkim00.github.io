@@ -12,7 +12,7 @@ all my favorite coffee shops, told in memories (what would i be without coffee?)
 [Philz](https://philzcoffee.com/locations/52?srsltid=AfmBOooybspO_09P7KK6h-r8KxP5pizMSKfmJIJFQ7qJ6MLEpdoTifnu): never worked in store, but love their honey haze 🐝🍯
 
 #### 📍 Philadelphia, PA
-[Elixr](https://elixrcoffee.com/): favorite weekend study spot (strawberry matcha latte) 🧡
+[Elixr](https://elixrcoffee.com/): favorite weekend study spot (strawberry matcha latte)
 
 [Saxbys](https://www.saxbyscoffee.com/location/saxbys-university-of-pennsylvania/): discovered chatter lab posting here 🤭
 
