@@ -2,7 +2,7 @@
 title = "Coffee"
 +++
 
-all my favorite coffee shops, told in memories (what would i be without coffee?) ☕️
+all my favorite coffee shops, told in memories (what would i be without coffee?)
 
 #### 📍 Chicago, IL
 [Plein Air](https://www.pleinaircafe.co/): one and only hyde park spot—ideated korean honorifics project here!
