@@ -3,7 +3,7 @@ title = "Home"
 +++
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="notbaby.jpeg" style="height: 300px; object-fit: cover; padding: 0">
+  <img src="notbaby.JPEG" style="height: 300px; object-fit: cover; padding: 0">
   <img src="baby.jpg" style="height: 300px; object-fit: cover; padding: 0">
 </div>
 
