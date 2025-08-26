@@ -30,4 +30,4 @@ all my favorite coffee shops, told in memories (what would i be without coffee?)
 [Blue Bottle Coffee](https://bluebottlecoffee.com/cafes/hudson-yards?srsltid=AfmBOorLYU_2AltdOzAqSjC_ofOhFEtFfboaT6prNj8Sean_r0U5tc97): 'twas a philly to nyc travel tradition to stop by blue bottle first
 
 #### 📍 Korea
-[A Twosome Place](https://www.twosome.co.kr/main.do): submitted my harvard grad app here (good strawberry chocolate cake)!
+[A Twosome Place](https://www.twosome.co.kr/main.do): submitted grad apps here (good strawberry chocolate cake)!
