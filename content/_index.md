@@ -17,10 +17,10 @@ title = "Home"
 
 <br>
 
-I am a first-year PhD student in Comparative Human Development at the University of Chicago. I work with [Dr. Marisa Casillas](https://humdev.uchicago.edu/directory/marisa-casillas) at the [Chatter Lab](https://chatterlab.uchicago.edu/). Here at the Chatter Lab, I’m involved in projects investigating the co-development of interactional and linguistic competence in children through experimental and observational methods.
+I am a first-year PhD student in Comparative Human Development at the University of Chicago. I work with [Dr. Marisa Casillas](https://humdev.uchicago.edu/directory/marisa-casillas) at the [Chatter Lab](https://chatterlab.uchicago.edu/).
 
 Previously, I worked with [Dr. Delphine Dahan](https://psychology.sas.upenn.edu/people/delphine-dahan) at the University of Pennsylvania to study how communicative goals drive the interpretation of utterances in everyday conversation.
 
-My primary research interest is in the <span style="color:#517e0d">development of socio-pragmatic reasoning</span> in the context of naturalistic language production and comprehension.
+My primary research interest is in the <span style="color:#517e0d">cross-cultural development of socio-pragmatic reasoning</span> in the context of naturalistic language production and comprehension.
 
 <br>

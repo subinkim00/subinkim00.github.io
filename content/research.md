@@ -10,7 +10,7 @@ Zhang, Y., **Kim, S.**, & Casillas, M. (in prep). <span style="color:#9db156">Wo
 ## Presentations
 
 #### Conference talks
-Casillas, M., **Kim, S.**, Querenet, S., Smolen E., Swenson, R., & Wang, H. (2025). <span style="color:#9db156">Multiparty talk in US Homes: Developmental Shifts in Interaction Structure</span>. Talk to be presented at the Boston University Conference on Language Development. Boston, MA, USA.
+Casillas, M., **Kim, S.**, Querenet, D., Smolen E., Swenson, R., & Wang, H. (2025). <span style="color:#9db156">Multiparty talk in US Homes: Developmental Shifts in Interaction Structure</span>. Talk to be presented at the Boston University Conference on Language Development. Boston, MA, USA.
 
 Zhang, Y., Casillas, M., & **Kim, S.** (2024). <span style="color:#9db156">Word order, morphological typology, and method predict the size of the noun bias: A meta-analysis</span>. Talk presented at the Boston University Conference on Language Development. Boston, MA, USA.
 

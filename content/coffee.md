@@ -25,9 +25,14 @@ all my favorite coffee shops, told in memories (what would i be without coffee?)
 [*United by Blue](https://unitedbyblue.com/?gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfq6miUPtJ9wtp2pC2to1EyJHv5XcxcEVdloZ-5iQH4B51hUT0fM-uRoC4qoQAvD_BwE): LOTS of coding assignments completed at Walnut location, unfortunately closed down my senior year 🥲
 
 #### 📍 New York, NY
+[Gemina Coffee Shop](https://www.riseprojects.com/gemina-cafe): worked on bucld slides here!
+
 [Kona Coffee Roasters](https://konacoffee.nyc/): submitted my senior thesis here!
 
 [Blue Bottle Coffee](https://bluebottlecoffee.com/cafes/hudson-yards?srsltid=AfmBOorLYU_2AltdOzAqSjC_ofOhFEtFfboaT6prNj8Sean_r0U5tc97): 'twas a philly to nyc travel tradition to stop by blue bottle first
+
+#### 📍 Boston, MA
+[Tatte](https://tattebakery.com): good shakshuka, good pistachio latte, right when i needed them 😋
 
 #### 📍 Korea
 [A Twosome Place](https://www.twosome.co.kr/main.do): submitted grad apps here (good strawberry chocolate cake)!
