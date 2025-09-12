@@ -19,8 +19,8 @@ title = "Home"
 
 I am a first-year PhD student in Comparative Human Development at the University of Chicago. I work with [Dr. Marisa Casillas](https://humdev.uchicago.edu/directory/marisa-casillas) at the [Chatter Lab](https://chatterlab.uchicago.edu/).
 
-Previously, I worked with [Dr. Delphine Dahan](https://psychology.sas.upenn.edu/people/delphine-dahan) at the University of Pennsylvania to study how communicative goals drive the interpretation of utterances in everyday conversation.
+Previously, I received my B.A. in Linguistics and Computer Information Science from the University of Pennsylvania, where I worked with [Dr. Delphine Dahan](https://psychology.sas.upenn.edu/people/delphine-dahan) to study how communicative goals drive the interpretation of utterances in everyday conversation.
 
-My primary research interest is in the <span style="color:#517e0d">cross-cultural development of socio-pragmatic reasoning</span> in the context of naturalistic language production and comprehension.
+My research focuses on the <span style="color:#517e0d">cross-cultural development of socio-pragmatic reasoning</span> in the context of naturalistic language production and comprehension. That is, I'm interested in how children across cultures learn to use and interpret language in everyday interactions—and what this reveals about the co-development of linguistic and social reasoning.
 
 <br>
