@@ -5,7 +5,7 @@ title = "Papers"
 ## Papers
 
 #### In prep
-Zhang, Y., **Kim, S.**, & Casillas, M. (in prep). <span style="color:#9db156">Word order, morphological typology, and method predict the size of the noun bias: A meta-analysis</span>.
+Zhang, Y., **Kim, S.**, & Casillas, M. (under review). <span style="color:#9db156">Word order, morphological typology, and method predict the size of the noun bias: A meta-analysis</span>.
 
 ## Presentations
 
