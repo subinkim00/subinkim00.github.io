@@ -9,7 +9,11 @@ all my favorite coffee shops, told in memories (what would i be without coffee?)
 
 [necessary & sufficient coffee](https://www.necessary-coffee.com/): sunday reading spot in printers row 📚
 
-[Philz](https://philzcoffee.com/locations/52?srsltid=AfmBOooybspO_09P7KK6h-r8KxP5pizMSKfmJIJFQ7qJ6MLEpdoTifnu): never worked in store, but love their honey haze 🐝🍯
+[Philz](https://philzcoffee.com/locations/52?srsltid=AfmBOooybspO_09P7KK6h-r8KxP5pizMSKfmJIJFQ7qJ6MLEpdoTifnu): never worked in store, but has fueled many a work sessions (love their honey haze 🐝🍯)
+
+[Cobb Coffee Shop](https://studentcenters.uchicago.edu/cafes/): go-to morning drip coffee spot and favorite campus café ☕️
+
+[Roux](https://rouxdiner.com): bright and spacious, with the best cinnamon rolls 👩‍💻
 
 #### 📍 Philadelphia, PA
 [Elixr](https://elixrcoffee.com/): favorite weekend study spot (strawberry matcha latte)
@@ -25,7 +29,7 @@ all my favorite coffee shops, told in memories (what would i be without coffee?)
 [*United by Blue](https://unitedbyblue.com/?gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfq6miUPtJ9wtp2pC2to1EyJHv5XcxcEVdloZ-5iQH4B51hUT0fM-uRoC4qoQAvD_BwE): LOTS of coding assignments completed at Walnut location, unfortunately closed down my senior year 🥲
 
 #### 📍 New York, NY
-[Kijitora](https://www.kijitorabrooklyn.com): best mango matcha 🥭🍵
+[Kijitora](https://www.kijitorabrooklyn.com): best mango matcha for morning fuel 🥭🍵
 
 [Gemina Coffee Shop](https://www.riseprojects.com/gemina-cafe): frequent nyc first stop 1️⃣
 
